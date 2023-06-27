@@ -7,8 +7,8 @@ export default function Nav(){
   return<>
   <Center>
 <Stack direction="row" spacing={100}>
-  <Link as={NextLink} href='/home' >
-    Home
+  <Link as={NextLink} href='/merch' >
+    Merch
   </Link>
   <Link as={NextLink} href='/tour'>
     TOUR

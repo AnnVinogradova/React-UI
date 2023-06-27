@@ -4,7 +4,7 @@ import {List,ListItem} from '@chakra-ui/react'
 import { Box } from '@chakra-ui/react'
 import { Button} from '@chakra-ui/react'
 
-export default function TIKET(){
+export default function Tiket(){
     return<>
     <Box>
     <Flex direction="column" alignItems="center">
